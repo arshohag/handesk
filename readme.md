@@ -112,6 +112,10 @@ There is the `badchoice/handesk-php` package in packagist to easily talk with th
 [Handesk-php](https://github.com/BadChoice/handesk-php)   
 [Handesk-ios](https://github.com/BadChoice/handesk-ios) *In progress*  
 
+### Credentails
+User     - admin@handesk.io
+Password - admin
+
 ### Screenshots
 ![Tickets screenshot](https://raw.githubusercontent.com/BadChoice/handesk/master/resources/screenshots/tickets.png)
 ![Ticket screenshot](https://raw.githubusercontent.com/BadChoice/handesk/master/resources/screenshots/ticket.png)
